@@ -1,2 +1,2 @@
-# goit-react-hw-1-components
+# goit-react-hw-01-components
 React Homework. Module 1.
