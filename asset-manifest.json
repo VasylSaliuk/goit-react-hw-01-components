@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.518ce94c.chunk.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.22100cea.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.22100cea.chunk.js.map",
+    "main.css": "/goit-react-hw-01-components/static/css/main.4246244e.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.21476e16.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.21476e16.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.1436064a.js",
     "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.1436064a.js.map",
-    "static/js/2.db66c1ef.chunk.js": "/goit-react-hw-01-components/static/js/2.db66c1ef.chunk.js",
-    "static/js/2.db66c1ef.chunk.js.map": "/goit-react-hw-01-components/static/js/2.db66c1ef.chunk.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.75b265d6.chunk.js": "/goit-react-hw-01-components/static/js/2.75b265d6.chunk.js",
+    "static/js/2.75b265d6.chunk.js.map": "/goit-react-hw-01-components/static/js/2.75b265d6.chunk.js.map",
     "index.html": "/goit-react-hw-01-components/index.html",
-    "static/css/main.518ce94c.chunk.css.map": "/goit-react-hw-01-components/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.db66c1ef.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.db66c1ef.chunk.js.LICENSE.txt"
+    "static/css/2.de71bbd8.chunk.css.map": "/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.4246244e.chunk.css.map": "/goit-react-hw-01-components/static/css/main.4246244e.chunk.css.map",
+    "static/js/2.75b265d6.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.75b265d6.chunk.js.LICENSE.txt",
+    "static/media/default.2e01288c.jpg": "/goit-react-hw-01-components/static/media/default.2e01288c.jpg",
+    "static/media/defaultAvatar.7dc2fece.jpg": "/goit-react-hw-01-components/static/media/defaultAvatar.7dc2fece.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1436064a.js",
-    "static/js/2.db66c1ef.chunk.js",
-    "static/css/main.518ce94c.chunk.css",
-    "static/js/main.22100cea.chunk.js"
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.75b265d6.chunk.js",
+    "static/css/main.4246244e.chunk.css",
+    "static/js/main.21476e16.chunk.js"
   ]
 }
