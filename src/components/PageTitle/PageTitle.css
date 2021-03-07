@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+
+  color: black;
+}
+
+.PageTitle {
+  display: flex;
+  justify-content: center;
+  min-height: 80px;
+  background-color: rgb(190, 215, 230);
+}
